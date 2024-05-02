@@ -30,11 +30,11 @@ export default {
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
 ## Run code 
-npm run build =====> build 
-npm run preview ====> start project 
+- npm run build =====> build 
+- npm run preview ====> start project 
 
 ## setting vercel 
-Build command : npm run build
-Output Directory : dist 
-Install command : npm install 
+- Build command : npm run build
+- Output Directory : dist 
+- Install command : npm install 
 =====> Save Build Deploy 
