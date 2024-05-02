@@ -28,3 +28,13 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+## Run code 
+npm run build =====> build 
+npm run preview ====> start project 
+
+## setting vercel 
+Build command : npm run build
+Output Directory : dist 
+Install command : npm install 
+=====> Save Build Deploy 
